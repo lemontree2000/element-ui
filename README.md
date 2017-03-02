@@ -2,6 +2,7 @@
 
 > demo
 
+[issues/3215](https://github.com/ElemeFE/element/issues/3215) 这是我提的issues，在公司开发环境出现的问题。 但这的demo是在家里电脑构建的， 没有出现问题。
 ## Build Setup
 
 ``` bash
